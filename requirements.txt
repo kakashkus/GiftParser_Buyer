@@ -1,0 +1,3 @@
+loguru==0.7.3
+tgcrypto
+kirugram==2.2.4

@@ -8,7 +8,7 @@
 
 # 🔥🔥 PYTHON version must be 3.10 🔥🔥
 
-> 🇷 🇺 README in russian available [here](README_RU.md)
+> 🇷 🇺 README in russian available [here](README_ru.md)
 
 # GiftParser + Buyer
 

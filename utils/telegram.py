@@ -69,7 +69,7 @@ async def buy_gift(bot_client: Client, tg_client: Client, count: int, gift_id: i
 
     await bot_client.send_message(
         chat_id=config.ADMIN_ID,
-        text=f'<b>✅ Successfully bought {bough_gifts} of {config.GIFT_COUNT_TO_BUY} new gifts!\n\n⭐ Stars spent: {star_balance_before-star_balance_after}\n⭐ Balance before: {star_balance_before}\n⭐ Balance after: {star_balance_after}</b>\n\n{errors_txt}'
+        text=f'<b>✅ Successfully bought {bough_gifts} of {config.GIFT_COUNT_TO_BUY} NEW GIFTS!\n\n⭐ Stars spent: {star_balance_before-star_balance_after}\n⭐ BALANCE before: {star_balance_before}\n⭐ BALANCE after: {star_balance_after}</b>\n\n{errors_txt}'
     )
 
     return bough_gifts

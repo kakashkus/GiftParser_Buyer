@@ -19,7 +19,7 @@ async def init_clients():
 
         user = await tg_client.get_me()
         star_balance = await tg_client.get_stars_balance()
-        logger.info(f"Initialized account client. User: {user.full_name} (@{user.username}); id:{user.id}; star balance: {star_balance}; Id to buy gifts: {config.ID_TO_BUY}")
+        logger.info(f"Initialized account client. User: {user.full_name} (@{user.username}); ID:{user.id}; star balance: {star_balance}; ID to buy gifts: {config.ID_TO_BUY}")
 
     else:
         logger.info('account client does not require initialization')

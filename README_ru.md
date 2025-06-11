@@ -1,3 +1,15 @@
+[![Static Badge](https://img.shields.io/badge/Телеграм-Наш_канал-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/hidden_coding)
+
+[![Static Badge](https://img.shields.io/badge/Телеграм-Наш_чат-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/hidden_codding_chat)
+
+[![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/catsgang_bot/join?startapp=eVMDZF6Fxdb8eNnjocoOP)
+
+## Рекомендация перед использованием
+
+# 🔥🔥 Используйте PYTHON версии 3.10 🔥🔥
+
+> 🇪🇳 README in english available [here](README)
+
 # GiftParser + Buyer
 
 Этот софт предназначен для автоматического парсинга и покупки подарков в Telegram. Он позволяет пользователям настраивать параметры для отслеживания и приобретения доступных подарков на основе заданных критериев, таких как ценовой диапазон и количество доступных подарков.

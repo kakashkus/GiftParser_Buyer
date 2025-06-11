@@ -2,8 +2,6 @@
 
 [![Static Badge](https://img.shields.io/badge/Telegram-Chat-yes?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/hidden_codding_chat)
 
-[![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/catsgang_bot/join?startapp=eVMDZF6Fxdb8eNnjocoOP)
-
 ## Recommendation before use
 
 # 🔥🔥 PYTHON version must be 3.10 🔥🔥
